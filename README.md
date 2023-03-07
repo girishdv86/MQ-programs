@@ -4,3 +4,4 @@ ssltest.sh: This sample program creates a sdr/rcvr ssl setup. Capture quick set 
 
 AMS Demo: This contains shell scripts and instructions on creating AMS setup
 
+SEND.sh: This script creats a SDR/RCVR channel setup
