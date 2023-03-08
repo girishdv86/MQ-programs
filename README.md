@@ -7,3 +7,5 @@ AMS Demo: This contains shell scripts and instructions on creating AMS setup
 SEND.sh: This script creats a SDR/RCVR channel setup
 
 stup_acttvtrace: This is a sample script to show activity trace and monitoring for trace messages
+
+trapit: This script keeps looking for certain occurrence of an error in the logs the triggers an action. This is useful for capturing debug docs.
